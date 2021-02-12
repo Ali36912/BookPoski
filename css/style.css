@@ -794,6 +794,10 @@ color: #fff;
         flex-wrap: wrap;
         height: 524px;
     }
+    .border-info {
+        width: 346px;
+        margin-left: 10px;
+    }
 }
 
 @media only screen and (max-width : 398px) {
@@ -808,6 +812,10 @@ color: #fff;
     }
     .subs {
         margin-left: 14px;
+    }
+    .border-info {
+        width: 325px;
+        margin-left: 10px;
     }
 }
 
@@ -838,5 +846,8 @@ color: #fff;
     }
     .subs {
         margin-left: 6px;
+    }
+    .border-info {
+        width: 307px;
     }
 }
