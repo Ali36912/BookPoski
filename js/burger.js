@@ -22,6 +22,7 @@ function burgerMenu(selector) {
             $('.wrapper').css('left','-100%');
         } else {
             $('body').css('overflow-y', 'visible');
+            $('body').css('overflow', 'visible');
             $('.bp_title').css('left','50%');
             $('.bp_txt').css('left','50%');
             $('.wrapper').css('left','50%');
